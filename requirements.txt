@@ -1,0 +1,44 @@
+# requirements.txt - Compatible versions
+streamlit==1.28.0
+opencv-python-headless==4.8.1.78
+deepface==0.0.79
+tensorflow==2.14.0
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+websockets==12.0
+plotly==5.17.0
+pandas==2.1.3
+numpy==1.26.2
+pillow==10.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Optional - only if you want external embeddings
+# sentence-transformers==2.2.2
+# huggingface-hub==0.16.4
+# transformers==4.30.0╔════════════════════════════════════════════════════╗
+║   🎭 Emotion-Adaptive Streaming Platform           ║
+╚════════════════════════════════════════════════════╝
+
+Sidebar:
+┌──────────────────┐
+│ ⚙️ Settings      │
+│ 🤖 Groq AI: ✅  │  <- Real AI Active!
+│                  │
+│ 📺 Select Mode:  │
+│ - 🏠 Home       │
+│ - 📹 Webcam     │
+│ - 📤 Upload     │
+│ - 🗂️ Browse     │
+│ - 💬 Chat       │  <- Chat with Real AI!
+│                  │
+│ 📊 Stats         │
+│ Current: HAPPY   │
+└──────────────────┘
+
+Main Area:
+[Home page with quick start buttons]
+[Or camera interface]
+[Or chat interface with Groq AI]
