@@ -1,27 +1,48 @@
-# EmotionAI 🎭
+# EmotionAI 🎭🤖
 
-An AI-powered emotion detection and content recommendation platform that understands human emotions in real time.
+**EmotionAI** is an AI-powered emotion understanding platform that detects human emotions in real time and adapts responses, recommendations, and interactions accordingly.
 
-## 🚀 Features
-- 📸 Image-based emotion detection
-- 🔴 Real-time webcam emotion tracking
-- 📹 Video emotion analysis (frame-by-frame)
-- 💬 Emotion-aware AI chat assistant
-- 🎬 Personalized content recommendations
-- 📊 Emotion analytics & visualizations
+It combines **computer vision, large language models, and agent-based AI** to create emotionally intelligent applications.
+
+---
+
+## 🚀 Key Features
+
+- 📸 **Image-based Emotion Detection**  
+  Analyze emotions from static images using deep learning models.
+
+- 🔴 **Real-time Webcam Emotion Tracking**  
+  Detect emotions live from a webcam stream with frame-by-frame analysis.
+
+- 📹 **Video Emotion Analysis**  
+  Extract and analyze emotions from video files in real time.
+
+- 💬 **Emotion-Aware AI Assistant**  
+  Chat with an AI that adapts its responses based on detected emotions.
+
+- 🎬 **Personalized Content Recommendation**  
+  Recommend content dynamically based on user emotional state.
+
+- 📊 **Emotion Analytics & Visualization**  
+  Interactive emotion insights and trends using visual dashboards.
+
+---
 
 ## 🧠 Tech Stack
-- 🐫 Camel AI (Agent Framework)
-- ⚡ Groq (Fast LLM Inference)
-- 🦙 LLaMA 3.3 (70B)
-- 👤 DeepFace (Emotion Detection)
-- 🎥 OpenCV
-- 📊 Plotly
-- 🧪 Streamlit
 
-## 🛠️ Installation
+- 🐫 **Camel AI** – Agent-based AI framework  
+- ⚡ **Groq** – Ultra-fast LLM inference  
+- 🦙 **LLaMA 3.3 (70B)** – Large language model  
+- 👤 **DeepFace** – Emotion detection  
+- 🎥 **OpenCV** – Computer vision  
+- 📊 **Plotly** – Data visualization  
+- 🧪 **Streamlit** – Interactive UI  
 
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/EmotionAI.git
+git clone https://github.com/HarshS99/EmotionAI.git
 cd EmotionAI
-pip install -r requirements.txt
